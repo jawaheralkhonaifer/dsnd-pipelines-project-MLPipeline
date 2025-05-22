@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+spacy
+notebook
+plotly
+spacy download en_core_web_sm
+textblob
+textblob.download_corpora
