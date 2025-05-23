@@ -1,55 +1,46 @@
-# README Template
+# NLP Pipeline
 
-Below is a template provided for use when building your README file for students.
-
-# Project Title
-
-Project description goes here.
+This project is made to check the posibilty if the user have a positive review they will be satifsied with their product 
 
 ## Getting Started
+use python 9 as spacy doesnt support python 13
 
-Instructions for how to get a copy of the project running on your local machine.
 
 ### Dependencies
 
-```
-Examples here
-```
+scikit-learn
+numpy
+pandas
+notebook
+plotly
+textblob
+notebook
+spacy
+matplotlib
+seaborn
 
 ### Installation
 
-Step by step explanation of how to get a dev environment running.
+Start by running pip install -r requirements.txt
+then python setup.py
+finally follow the instructions in jupyter note in starter file
 
-List out the steps
 
-```
-Give an example here
-```
-
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
-
-## Project Instructions
-
-This section should contain all the student deliverables for this project.
 
 ## Built With
 
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
+* [scikit-learn](https://scikit-learn.org) - Machine learning library for Python
+* [NumPy](https://numpy.org) - Fundamental package for numerical computations
+* [Pandas](https://pandas.pydata.org) - Data manipulation and analysis tool
+* [Jupyter Notebook](https://jupyter.org) - Web-based interactive computing platform
+* [Plotly](https://plotly.com/python/) - Interactive graphing and visualization library
+* [TextBlob](https://textblob.readthedocs.io/en/dev/) - Simple NLP library for processing textual data
+* [spaCy](https://spacy.io) - Industrial-strength natural language processing library
+* [Matplotlib](https://matplotlib.org) - Comprehensive library for static, animated, and interactive plots
+* [Seaborn](https://seaborn.pydata.org) - Statistical data visualization based on matplotlib
 
-Include all items used to build project.
+
 
 ## License
 
-[License](LICENSE.txt)
+[MIT License](LICENSE.txt)

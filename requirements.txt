@@ -1,8 +1,10 @@
 scikit-learn
+numpy
 pandas
-spacy
 notebook
 plotly
-spacy download en_core_web_sm
 textblob
-textblob.download_corpora
+notebook
+spacy
+matplotlib
+seaborn
